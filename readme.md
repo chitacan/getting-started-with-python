@@ -1,6 +1,6 @@
 # Getting Started With Python Examples
 
-`Tuts+`'s course examples.
+`Tuts+`'s [course](https://tutsplus.com/course/getting-started-with-python/) examples.
 
 ## Lesson Description
 
